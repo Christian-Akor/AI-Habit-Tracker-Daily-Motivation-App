@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# AI Habit Tracker - Daily Motivation App
+AI Habit Tracker - Daily Motivation App
 
 A beautiful, fully-featured habit tracking application built with Vue 3 and Tailwind CSS. Track your daily habits, build streaks, and stay motivated with daily inspirational quotes!
 
@@ -135,10 +134,4 @@ Contributions, issues, and feature requests are welcome!
 ## 👨‍💻 Author
 
 **Christian Akor**
-
----
-
 Built with ❤️ using Vue 3 and Tailwind CSS
-=======
-# AI-Habit-Tracker-Daily-Motivation-App
->>>>>>> 7a254404bc8824f637f61a689bdc7fd57722ec3d
